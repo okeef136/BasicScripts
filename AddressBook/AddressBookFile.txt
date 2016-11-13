@@ -1,0 +1,3 @@
+Jameson::Quinn::2000 Fairmount Ave::Saint Paul::MN::55105
+CalDog::ManBaby::2121 Awesome St::Dumb::Fat::55555
+OKeefe::Calvin::1819 University Ave::Minneapolis::MN::55414

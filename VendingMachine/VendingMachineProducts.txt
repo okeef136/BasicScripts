@@ -1,0 +1,6 @@
+doritos::1.5::10
+bakedLays::1.25::9
+cheetos::1.5::0
+cheezits::2.95::9
+gum::1.0::5
+twinkies::2.1::5
